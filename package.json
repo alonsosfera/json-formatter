@@ -1,0 +1,11 @@
+{
+  "name": "formatjson",
+  "version": "1.0.0",
+  "description": "App designed to format JSON to match DKFire's checklists format",
+  "main": "index.js",
+  "scripts": {
+    "format": "node index.js"
+  },
+  "author": "Alonso Gutierrez",
+  "license": "ISC"
+}
