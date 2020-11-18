@@ -4,7 +4,7 @@ App designed to format JSON to match DKFire's checklists format
 
 ## Getting Started
 
-To format JSON to match checklists' required format, simply:
+After cloning this project to your local machine, to format a JSON to match checklists' required format, simply:
 
 1. Paste JSON into the 'checklist.json' file.
 
